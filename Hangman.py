@@ -14,7 +14,7 @@ class HungMan():
         self.guessed_characters = self.hidden_word_characters.intersection(self.answers)
         self.attempts = attempts
         self.play()
-
+        
     def play(self):
         while self.attempts > 0 and len(self.hidden_word_characters.difference(self.guessed_characters)):
             self.print()
@@ -55,5 +55,9 @@ class HungMan():
 
 
 if __name__ == '__main__':
-    # Write your code here
-    hungMan = HungMan(8)
+    while True:
+        decision = input('Type "play" to play the game, "exit" to quit: ')
+        if decision == "play":
+            hungMan = HungMan(8)
+        elif decision == "exit":
+            break
