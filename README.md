@@ -1,17 +1,11 @@
 # hyperskill
 Hyperskill projects
 
-## Zookeeper
-<!-- blank line -->
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="res/poster.png">
-    <source src="res/demonstration_zookeeper.mp4" type="video/mp4">
-  </video>
-</figure>
-<!-- blank line -->
+## Project Links
 
-d
-<video width="320" height="240" controls>
-  <source src="res/demonstration_zookeeper.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video> 
+[Zookeeper](https://hyperskill.org/projects/98?track=2)
+[Rock-Paper-Scissors](https://hyperskill.org/projects/78?track=2)
+[Tic-Tac-Toe](https://hyperskill.org/projects/73?track=2)
+
+[Credit Calculator](https://hyperskill.org/projects/90?track=2)
+[Coffee Machine](https://hyperskill.org/projects/68?track=2)
