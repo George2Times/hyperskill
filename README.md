@@ -5,9 +5,10 @@ Hyperskill projects
 
 <b> Challenging <b/> <br/>
 <b> Hard <b/> <br/>
+  Current [Password Hacker](https://hyperskill.org/projects/80?track=2) 22 hours 82 topics <br/>
 
 <b> Medium <b/> <br/>
-  Current [Simple Banking System](https://hyperskill.org/projects/109?track=2) 14 hours 48 topics <br/>
+  [Simple Banking System](https://hyperskill.org/projects/109?track=2) 14 hours 48 topics <br/>
   [Rock-Paper-Scissors](https://hyperskill.org/projects/78?track=2) 13 hours 47 topics <br/>
 
 <b> Easy <b/> <br/>
