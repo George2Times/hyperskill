@@ -1,5 +1,5 @@
 # hyperskill
-[My Hyperskill profile](https://hyperskill.org/profile/2958564)
+[My Hyperskill profile](https://hyperskill.org/profile/2958564) <br/>
 Hyperskill projects rep
 
 ## Project Links
