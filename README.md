@@ -7,8 +7,8 @@ Hyperskill projects rep
 <b> Challenging <b/> <br/>  <br/>
   
 <b> Hard <b/> <br/>
-  Current [Password Hacker](https://hyperskill.org/projects/80?track=2) 22 hours 82 topics <br/>
-<b> Summary: 1 project under construction <b/> <br/>
+1 [Password Hacker](https://hyperskill.org/projects/80?track=2) 22 hours 82 topics <br/>
+<b> Summary: 1 project 22 hours <b/> <br/>
 
 <b> Medium <b/> <br/>
 1 [Simple Banking System](https://hyperskill.org/projects/109?track=2) 14 hours 48 topics <br/>
@@ -23,4 +23,8 @@ Hyperskill projects rep
 5 [Simple Chatty Bot](https://hyperskill.org/projects/97?track=2) 5 hours 20 topics <br/>
 6 [Zookeeper](https://hyperskill.org/projects/98?track=2) 4 hours 18 topics <br/>
 <b> Summary: 6 projects 53 hours <b/>
+  
+## Total
+Projects: <b> 9 <b/> <br/>
+Time: <b> 102 hours <b/>
   
