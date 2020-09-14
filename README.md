@@ -13,7 +13,8 @@ Hyperskill projects rep
 <b> Medium <b/> <br/>
 1 [Simple Banking System](https://hyperskill.org/projects/109?track=2) 14 hours 48 topics <br/>
 2 [Rock-Paper-Scissors](https://hyperskill.org/projects/78?track=2) 13 hours 47 topics <br/>
-<b> Summary: 2 projects 27 hours <b/> <br/>
+3 <b>Current<b/> [Numeric Matrix Processor](https://hyperskill.org/projects/96?track=2) ? hours 59 topics <br/>
+<b> Summary: 2 projects 27 hours, 1 under development <b/> <br/>
 
 <b> Easy <b/> <br/>
 1 [Coffee Machine](https://hyperskill.org/projects/68?track=2) 12 hours 40 topics <br/>
