@@ -8,7 +8,8 @@ Hyperskill projects rep
   
 <b> Hard <b/> <br/>
 1 [Password Hacker](https://hyperskill.org/projects/80?track=2) 22 hours 82 topics <br/>
-<b> Summary: 1 project 22 hours <b/> <br/>
+<b>Current<b/> 7 [To-Do List](https://hyperskill.org/projects/105?track=2) 18 hours 69 topics <br/>
+<b> Summary: 1 project 22 hours, 1 under development  <b/> <br/>
 
 <b> Medium <b/> <br/>
 1 [Simple Banking System](https://hyperskill.org/projects/109?track=2) 14 hours 48 topics <br/>
@@ -23,10 +24,10 @@ Hyperskill projects rep
 4 [Credit Calculator](https://hyperskill.org/projects/90?track=2) 10 hours 33 topics <br/>
 5 [Simple Chatty Bot](https://hyperskill.org/projects/97?track=2) 5 hours 20 topics <br/>
 6 [Zookeeper](https://hyperskill.org/projects/98?track=2) 4 hours 18 topics <br/>
-7 <b>Current<b/> [Regex Engine](https://hyperskill.org/projects/114?track=2) 12 hours 40 topics <br/>
-<b> Summary: 6 projects 53 hours, 1 under development <b/>
+7 [Regex Engine](https://hyperskill.org/projects/114?track=2) 12 hours 40 topics <br/>
+<b> Summary: 7 projects 65 hours<b/>
   
 ## Total
-Projects: <b> 10 <b/> <br/>
-Time: <b> 119 hours <b/>
+Projects: <b> 11 <b/> <br/>
+Time: <b> 131 hours <b/>
   
