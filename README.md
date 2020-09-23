@@ -8,8 +8,9 @@ Hyperskill projects rep
   
 <b> Hard <b/> <br/>
 1 [Password Hacker](https://hyperskill.org/projects/80?track=2) 22 hours 82 topics <br/>
-<b>Current<b/> 7 [To-Do List](https://hyperskill.org/projects/105?track=2) 18 hours 69 topics <br/>
-<b> Summary: 1 project 22 hours, 1 under development  <b/> <br/>
+2 [To-Do List](https://hyperskill.org/projects/105?track=2) 18 hours 69 topics <br/>
+3 <b>Current<b/> [Text-Based Browser](https://hyperskill.org/projects/79?track=2) 16 hours 66 topics <br/>
+<b> Summary: 2 project 40 hours, 1 under development  <b/> <br/>
 
 <b> Medium <b/> <br/>
 1 [Simple Banking System](https://hyperskill.org/projects/109?track=2) 14 hours 48 topics <br/>
@@ -28,6 +29,7 @@ Hyperskill projects rep
 <b> Summary: 7 projects 65 hours<b/>
   
 ## Total
-Projects: <b> 11 <b/> <br/>
-Time: <b> 131 hours <b/>
+Projects: <b> 12 <b/> <br/>
+Time: <b> 149 hours <b/>
+
   
