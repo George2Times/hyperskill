@@ -36,6 +36,6 @@ Time: <b> 165 hours <b/>
 
 
 ## Web
-<b> Challenging <b/>
-1 [Virtual piano](https://hyperskill.org/projects/101?track=5) 7 hours 48 topics <br/>
+<b> Challenging <b/> <br/>
+1 [Virtual piano](https://hyperskill.org/projects/101?track=5) 7 hours 51 topics <br/>
 
