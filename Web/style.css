@@ -1,0 +1,28 @@
+body {background-color: bisque;}
+
+.white-keys kbd {
+    background-color: white;
+    text-align: center;
+    display: inline-block;
+    width: 4vw;
+    height: 30vh;
+    border-style: solid;
+}
+div.container{
+    position: relative;
+    top:25vh;
+    left: 33vw;
+}
+
+.black-keys kbd {
+    background-color: black;
+    display: inline-block;
+    width: 2.5vw;
+    height: 20vh;
+    text-align: center;
+    border-style: solid;
+    border-color: white;
+    z-index: 1;
+    color: white;
+
+}
