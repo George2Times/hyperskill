@@ -2,8 +2,9 @@
 [My Hyperskill profile](https://hyperskill.org/profile/2958564) <br/>
 Hyperskill projects rep
 
-## Project Links
+### Project Links
 
+## Python
 <b> Challenging <b/> <br/>  <br/>
   
 <b> Hard <b/> <br/>
@@ -33,4 +34,8 @@ Hyperskill projects rep
 Projects: <b> 13 <b/> <br/>
 Time: <b> 165 hours <b/>
 
+
+## Web
+<b> Challenging <b/>
+1 [Virtual piano](https://hyperskill.org/projects/101?track=5) 7 hours 48 topics <br/>
 
