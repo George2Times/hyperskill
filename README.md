@@ -9,15 +9,21 @@ Hyperskill projects rep
   
 <b> Hard <b/> <br/>
 1 [Password Hacker](https://hyperskill.org/projects/80?track=2) 22 hours 82 topics <br/>
+      argparse, itertools, json, unittest, socket, string <br/>
 2 [To-Do List](https://hyperskill.org/projects/105?track=2) 18 hours 69 topics <br/>
+      datetime, sqlalchemy <br/>
 3 [Text-Based Browser](https://hyperskill.org/projects/79?track=2) 16 hours 66 topics* <br/>
+      argparse, bs4, collections , colorama, os, requests <br/>
 4 <b>Current<b/> [Tic-Tac-Toe with AI](https://hyperskill.org/projects/82?track=2) 21 hours 68 topics <br/>
 <b> Summary: 3 project 56 hours, 1 under development <b/> <br/>
 
 <b> Medium <b/> <br/>
 1 [Simple Banking System](https://hyperskill.org/projects/109?track=2) 14 hours 48 topics <br/>
+      sqlite3, random <br/>
 2 [Rock-Paper-Scissors](https://hyperskill.org/projects/78?track=2) 13 hours 47 topics <br/>
+      random <br/>
 3 [Numeric Matrix Processor](https://hyperskill.org/projects/96?track=2) 17 hours 59 topics* <br/>
+      numpy, math, prettytable <br/>
 <b> Summary: 3 projects 44 hours <b/> <br/>
 
 <b> Easy <b/> <br/>
