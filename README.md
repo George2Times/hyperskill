@@ -5,7 +5,10 @@ Hyperskill projects rep
 ### Project Links
 
 ## Python
-<b> Challenging <b/> <br/>  <br/>
+<b> Challenging <b/> <br/> 
+1 <b>Current<b/> [HyperNews Portal](https://hyperskill.org/projects/102?track=2) 22 hours 93 topics <br/>
+<b> Summary: 0 projects, 1 under development <b/> <br/>
+
   
 <b> Hard <b/> <br/>
 1 [Password Hacker](https://hyperskill.org/projects/80?track=2) 22 hours 82 topics <br/>
@@ -14,8 +17,8 @@ Hyperskill projects rep
       datetime, sqlalchemy <br/>
 3 [Text-Based Browser](https://hyperskill.org/projects/79?track=2) 16 hours 66 topics* <br/>
       argparse, bs4, collections , colorama, os, requests <br/>
-4 <b>Current<b/> [Tic-Tac-Toe with AI](https://hyperskill.org/projects/82?track=2) 21 hours 68 topics <br/>
-<b> Summary: 3 project 56 hours, 1 under development <b/> <br/>
+4 [Tic-Tac-Toe with AI](https://hyperskill.org/projects/82?track=2) 21 hours 68 topics <br/>
+<b> Summary: 4 project 67 hours <b/> <br/>
 
 <b> Medium <b/> <br/>
 1 [Simple Banking System](https://hyperskill.org/projects/109?track=2) 14 hours 48 topics <br/>
@@ -37,8 +40,8 @@ Hyperskill projects rep
 <b> Summary: 7 projects 65 hours<b/>
   
 ## Total
-Projects: <b> 13 <b/> <br/>
-Time: <b> 165 hours <b/>
+Projects: <b> 14 <b/> <br/>
+Time: <b> 186 hours <b/>
 
 
 ## Web
