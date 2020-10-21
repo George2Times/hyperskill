@@ -11,7 +11,7 @@ Time: <b> 208 hours <b/>
 ## Python
 <b> Challenging <b/> <br/> 
 1 [HyperNews Portal](https://hyperskill.org/projects/102?track=2) 22 hours 93 topics <br/>
-	  django; datetime, itertools, json, random
+	  django; datetime, itertools, json, random <br/>
 2 <b>Current<b/> [Hypercar Service Center](https://hyperskill.org/projects/85?track=2) 22 hours 107 topics <br/>
 <b> Summary: 1 projects 22 hours, 1 under development <b/> <br/>
 
