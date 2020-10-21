@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Create news</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/base.css' %}">
+</head>
+<body>
+<h2>Create news</h2>
+<form method="post">{% csrf_token %}
+    <input name="title">
+    <input name="text">
+    <button type="submit">Add a news</button>
+</form>
+<a href="/news/" target="_blank">Hyper news</a>
+</body>
+</html>

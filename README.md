@@ -4,10 +4,16 @@ Hyperskill projects rep
 
 ### Project Links
 
+## Total
+Projects: <b> 15 <b/> <br/>
+Time: <b> 208 hours <b/>
+
 ## Python
 <b> Challenging <b/> <br/> 
-1 <b>Current<b/> [HyperNews Portal](https://hyperskill.org/projects/102?track=2) 22 hours 93 topics <br/>
-<b> Summary: 0 projects, 1 under development <b/> <br/>
+1 [HyperNews Portal](https://hyperskill.org/projects/102?track=2) 22 hours 93 topics <br/>
+	  django; datetime, itertools, json, random
+2 <b>Current<b/> [Hypercar Service Center](https://hyperskill.org/projects/85?track=2) 22 hours 107 topics <br/>
+<b> Summary: 1 projects 22 hours, 1 under development <b/> <br/>
 
   
 <b> Hard <b/> <br/>
@@ -38,11 +44,6 @@ Hyperskill projects rep
 6 [Zookeeper](https://hyperskill.org/projects/98?track=2) 4 hours 18 topics <br/>
 7 [Regex Engine](https://hyperskill.org/projects/114?track=2) 12 hours 40 topics* <br/>
 <b> Summary: 7 projects 65 hours<b/>
-  
-## Total
-Projects: <b> 14 <b/> <br/>
-Time: <b> 186 hours <b/>
-
 
 ## Web
 <b> Challenging <b/> <br/>
