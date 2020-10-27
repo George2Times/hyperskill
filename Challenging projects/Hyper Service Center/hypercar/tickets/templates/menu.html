@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Menu</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/base.css' %}">
+</head>
+<body>
+    <ul>
+        {% for link, choice in menu_choices.items %}
+            <li>
+                <a href="/get_ticket/{{ link }}">{{ choice }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

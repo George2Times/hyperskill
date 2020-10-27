@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Processing</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/base.css' %}">
+</head>
+<body>
+    {% for description, number_in_queue in queues.items %}
+        <div>{{ description }} queue: {{ number_in_queue }}</div>
+    {% endfor %}
+
+    <form method="post">{% csrf_token %}
+      <button type="submit">Process next</button>
+    </form>
+</body>
+</html>

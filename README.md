@@ -5,15 +5,15 @@ Hyperskill projects rep
 ### Project Links
 
 ## Total
-Projects: <b> 15 <b/> <br/>
-Time: <b> 208 hours <b/>
+Projects: <b> 16 <b/> <br/>
+Time: <b> 230 hours <b/>
 
 ## Python
 <b> Challenging <b/> <br/> 
 1 [HyperNews Portal](https://hyperskill.org/projects/102?track=2) 22 hours 93 topics <br/>
 	  django; datetime, itertools, json, random
-2 <b>Current<b/> [Hypercar Service Center](https://hyperskill.org/projects/85?track=2) 22 hours 107 topics <br/>
-<b> Summary: 1 projects 22 hours, 1 under development <b/> <br/>
+2 [Hypercar Service Center](https://hyperskill.org/projects/85?track=2) 22 hours 107 topics <br/>
+<b> Summary: 2 projects 44 hours<b/> <br/>
 
   
 <b> Hard <b/> <br/>
@@ -24,7 +24,8 @@ Time: <b> 208 hours <b/>
 3 [Text-Based Browser](https://hyperskill.org/projects/79?track=2) 16 hours 66 topics* <br/>
       argparse, bs4, collections , colorama, os, requests <br/>
 4 [Tic-Tac-Toe with AI](https://hyperskill.org/projects/82?track=2) 21 hours 68 topics <br/>
-<b> Summary: 4 project 67 hours <b/> <br/>
+5 <b>Current<b/> [Multilingual Online Translator](https://hyperskill.org/projects/99?track=2) 21 hours 68 topics <br/>
+<b> Summary: 4 project 67 hours, 1 under development  <b/> <br/>
 
 <b> Medium <b/> <br/>
 1 [Simple Banking System](https://hyperskill.org/projects/109?track=2) 14 hours 48 topics <br/>
@@ -43,7 +44,7 @@ Time: <b> 208 hours <b/>
 5 [Simple Chatty Bot](https://hyperskill.org/projects/97?track=2) 5 hours 20 topics <br/>
 6 [Zookeeper](https://hyperskill.org/projects/98?track=2) 4 hours 18 topics <br/>
 7 [Regex Engine](https://hyperskill.org/projects/114?track=2) 12 hours 40 topics* <br/>
-<b> Summary: 7 projects 65 hours<b/>
+<b> Summary: 7 projects 65 hours <b/> <br/>
 
 ## Web
 <b> Challenging <b/> <br/>
